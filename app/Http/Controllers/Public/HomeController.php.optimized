@@ -1,0 +1,130 @@
+<?php
+
+namespace App\Http\Controllers\Public;
+
+use App\Http\Controllers\Controller;
+use App\Models\Listing\Listing;
+use App\Services\CacheService;
+use App\Services\DatabaseOptimizationService;
+use App\Services\ResponseOptimizationService;
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
+
+/**
+ * HomeController محسّن للأداء العالية
+ * تطبيق أفضل ممارسات Netflix, Google, Amazon
+ */
+class HomeController extends Controller
+{
+    public function index(Request $request)
+    {
+        $cityId = $request->input('city');
+        $categoryId = $request->input('category');
+        $sort = $request->input('sort', 'newest');
+        $minPrice = $request->input('min_price');
+        $maxPrice = $request->input('max_price');
+        $minRating = $request->input('min_rating', 0);
+        $features = $request->input('features', []);
+
+        $relations = [
+            'media',
+            'city.translations',
+            'country',
+            'categories.translations',
+            'features.translations',
+            'type',
+            'business',
+        ];
+
+        $query = Listing::with($relations)
+            ->where('status', 'published');
+
+        if ($cityId) {
+            $query->where('city_id', $cityId);
+        }
+
+        if ($categoryId) {
+            $query->whereHas('categories', function ($q) use ($categoryId) {
+                $q->where('category_id', $categoryId);
+            });
+        }
+
+        if ($minRating > 0) {
+            $query->where('average_rating', '>=', $minRating);
+        }
+
+        if ($minPrice !== null || $maxPrice !== null) {
+            $query->whereHas('prices', function ($q) use ($minPrice, $maxPrice) {
+                if ($minPrice !== null) {
+                    $q->where('price', '>=', $minPrice);
+                }
+                if ($maxPrice !== null) {
+                    $q->where('price', '<=', $maxPrice);
+                }
+            });
+        }
+
+        if (!empty($features)) {
+            $query->whereHas('features', function ($q) use ($features) {
+                $q->whereIn('listing_features.id', $features);
+            }, '=', count($features));
+        }
+
+        $query = $this->applySorting($query, $sort);
+
+        $listings = DatabaseOptimizationService::optimizedPaginate(
+            $query,
+            perPage: 12,
+            cursor: $request->input('cursor')
+        );
+
+        $favoritedIds = [];
+        if (auth()->check()) {
+            $favoritedIds = DB::table('favorites')
+                ->where('user_id', auth()->id())
+                ->whereIn('listing_id', $listings->pluck('id'))
+                ->pluck('listing_id')
+                ->toArray();
+        }
+
+        $data = [
+            'listings' => $listings,
+            'favoritedIds' => $favoritedIds,
+            'featuredListings' => CacheService::getFeaturedListings(),
+            'cities' => CacheService::getCities(),
+            'categories' => CacheService::getMainCategories(),
+            'allFeatures' => CacheService::getAllFeatures(),
+            'cityId' => $cityId,
+            'categoryId' => $categoryId,
+            'sort' => $sort,
+            'minPrice' => $minPrice,
+            'maxPrice' => $maxPrice,
+            'minRating' => $minRating,
+            'features' => $features,
+            'posts' => \App\Models\Post::visible()
+                ->with(['category', 'user'])
+                ->latest('published_at')
+                ->take(4)
+                ->get(),
+        ];
+
+        return view('public.home', $data);
+    }
+
+    /**
+     */
+    private function applySorting($query, string $sort)
+    {
+        return match ($sort) {
+            'rating' => $query->orderBy('average_rating', 'desc'),
+            'oldest' => $query->orderBy('created_at', 'asc'),
+            'price_low' => $query->orderByRaw(
+                '(SELECT MIN(price) FROM listing_prices WHERE listing_prices.listing_id = listings.id) ASC'
+            ),
+            'price_high' => $query->orderByRaw(
+                '(SELECT MAX(price) FROM listing_prices WHERE listing_prices.listing_id = listings.id) DESC'
+            ),
+            default => $query->orderBy('published_at', 'desc'),
+        };
+    }
+}

@@ -1,0 +1,17 @@
+includes:
+    - vendor/larastan/larastan/extension.neon
+
+parameters:
+
+    paths:
+        - app/
+
+    # مستوى الصرامة من 0 إلى 9
+    level: 5
+
+    # تجاهل أخطاء معينة إذا لزم الأمر
+    # ignoreErrors:
+    #     - '#Unsafe usage of new static#'
+
+    excludePaths:
+        - ./*/*/FileToBeExcluded.php

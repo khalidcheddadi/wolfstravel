@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://wolfstravel.com/es</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es" />
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/contact</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/privacy</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/madrid</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/madrid" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/madrid" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/madrid" />
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/barcelona</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/barcelona" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/barcelona" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/barcelona" />
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/paris</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/paris" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/paris" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/paris" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/paris" />
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/rome</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/rome" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/rome" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/rome" />
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/luxury</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/luxury" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/luxury" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/luxury" />
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/adventure</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/adventure" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/adventure" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/adventure" />
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/family-friendly</loc>
+        <lastmod>2026-08-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/family-friendly" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/family-friendly" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/family-friendly" />
+    </url>
+</urlset>

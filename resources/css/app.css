@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   PROFESSIONAL OVERFLOW FIX
+   ============================================ */
+
+html {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    width: 100%;
+    max-width: 100%;
+}
+
+body {
+    overflow-x: clip;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}

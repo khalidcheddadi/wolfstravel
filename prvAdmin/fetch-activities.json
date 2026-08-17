@@ -1,0 +1,105 @@
+{
+  "activities": [
+    {
+      "id": 6053,
+      "business": {
+        "number": 6053,
+        "name": "Buitrago de Lozoya",
+        "email": "info@buitragodelozoya.es",
+        "phone": "",
+        "website": "",
+        "password": "BuitragoLozoya@2026"
+      },
+      "title": "Buitrago de Lozoya - Medieval Walled Town with Castle, Picasso Museum & Natural Park in Madrid",
+      "short_description": "A historic town in the Community of Madrid featuring a medieval wall, castle, Picasso Museum, and the Sierra Norte Natural Park, perfect for history and nature lovers.",
+      "description": "Buitrago de Lozoya\nMadrid\n\nHistoria de Buitrago de Lozoya\nBuitrago de Lozoya es un municipio español situado en la Comunidad de Madrid, que cuenta con una larga y rica historia que se remonta a la época prehistórica.\n\nDurante la época romana, Buitrago de Lozoya se encontraba situada en una importante ruta comercial entre Toledo y Segovia, y se cree que la localidad fue un asentamiento romano importante, como lo demuestran los restos arqueológicos encontrados en la zona. También se sabe que la ciudad tuvo cierta importancia en la Edad Media, ya que en el siglo XI se construyó una fortificación que se convirtió en uno de los núcleos defensivos más importantes de la zona.\n\nDurante la Guerra de la Independencia, Buitrago de Lozoya fue uno de los bastiones más importantes de la lucha contra las tropas francesas, y en la Guerra Civil española, la localidad fue testigo de intensos enfrentamientos entre las fuerzas republicanas y las fuerzas franquistas.\n\nHoy en día, Buitrago de Lozoya es un importante destino turístico gracias a su rico patrimonio histórico y cultural, que incluye la fortificación medieval, la iglesia de Santa María del Castillo, el Museo Picasso-Colección Eugenio Arias, que cuenta con una importante colección de obras de Picasso, y el Parque Natural de la Sierra Norte de Madrid, que ofrece a los visitantes una gran variedad de actividades al aire libre, como senderismo, escalada, piragüismo y pesca.\n\nPuntos de interés\nLa muralla medieval\nEl Castillo de Buitrago\nLa iglesia de Santa María del Castillo\nEl Museo Picasso-Colección Eugenio Arias\nEl Parque Natural de la Sierra Norte de Madrid\n\nConsejos prácticos\nCastillo de Buitrago: abierto de martes a domingo en horario de 11:00 a 14:00 y de 16:00 a 18:00. Cerrado los lunes.\nIglesia de Santa María del Castillo: abierto de martes a sábado en horario de 10:00 a 14:00 y de 16:00 a 19:00. Los domingos abre de 10:00 a 14:00. Cerrado los lunes.\nMuseo Picasso-Colección Eugenio Arias: abierto de martes a sábado en horario de 11:00 a 14:00 y de 16:00 a 19:00. Los domingos abre de 11:00 a 14:00. Cerrado los lunes.\nFiesta de la Virgen de la Peña: se celebra el último domingo de agosto y se conmemora a la patrona de Buitrago de Lozoya.",
+      "type": {
+        "id": 19,
+        "name": "Historical Town",
+        "slug": "historical-town"
+      },
+      "categories": [
+        {
+          "id": 42,
+          "name": "Landmarks",
+          "slug": "landmarks"
+        },
+        {
+          "id": 43,
+          "name": "Historical Sites",
+          "slug": "historical-sites"
+        },
+        {
+          "id": 44,
+          "name": "Tourist Attractions",
+          "slug": "tourist-attractions"
+        },
+        {
+          "id": 46,
+          "name": "Museums",
+          "slug": "museums"
+        },
+        {
+          "id": 47,
+          "name": "Natural Parks",
+          "slug": "natural-parks"
+        }
+      ],
+      "location": {
+        "city": "Madrid",
+        "city_id": 123,
+        "country": "Spain",
+        "country_id": 1,
+        "address": "Buitrago de Lozoya, Madrid, Spain",
+        "latitude": 40.9920,
+        "longitude": -3.6340
+      },
+      "features": [
+        { "slug": "medieval-walls" },
+        { "slug": "castle" },
+        { "slug": "church" },
+        { "slug": "picasso-museum" },
+        { "slug": "natural-park" },
+        { "slug": "hiking" },
+        { "slug": "climbing" },
+        { "slug": "canoeing" },
+        { "slug": "fishing" },
+        { "slug": "historical-heritage" }
+      ],
+      "images": [
+        {
+          "name": "buitrago-de-lozoya-madrid",
+          "url": "https://images.unsplash.com/photo-1543783207-ec64e4d95325?w=800&q=80",
+          "alt": "Medieval wall and castle of Buitrago de Lozoya in Madrid"
+        }
+      ],
+      "rating": 4.5,
+      "reviews": 0,
+      "reviews_list": [
+        {
+          "user_name": "Javier S.",
+          "user_email": "javier.s@gmail.com",
+          "rating": 5,
+          "title": "Un pueblo con mucha historia",
+          "body": "Buitrago de Lozoya es una joya. La muralla y el castillo están muy bien conservados. El Museo Picasso es una sorpresa increíble, con una colección única. Además, el Parque Natural de la Sierra Norte es perfecto para hacer senderismo. Muy recomendable.",
+          "created_at": "2026-10-12 18:00:00"
+        },
+        {
+          "user_name": "Carmen P.",
+          "user_email": "carmen.p@gmail.com",
+          "rating": 4.5,
+          "title": "Perfecto para una escapada de fin de semana",
+          "body": "Nos encantó la visita. La iglesia de Santa María del Castillo es preciosa y las vistas desde el castillo son espectaculares. Los horarios son cómodos y la gente es muy amable. La fiesta de la Virgen de la Peña en agosto debe ser increíble.",
+          "created_at": "2026-10-18 14:00:00"
+        }
+      ],
+      "status": "published"
+    }
+  ],
+  "metadata": {
+    "total_activities": 1,
+    "categories": ["Landmarks", "Historical Sites", "Tourist Attractions", "Museums", "Natural Parks"],
+    "types": ["Historical Town"],
+    "locations": ["Madrid"]
+  }
+}
