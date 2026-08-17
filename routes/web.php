@@ -180,7 +180,7 @@ foreach ($locales as $locale) {
 }
 
 // ─── Root URL: serve content directly (no redirect) ───
-Route::get('/', [HomeController::class, 'index'])->name('home.root');
+Route::get('/', [HomeController::class, 'index'])->name('home');
 
 // ─── SEO Fallback Redirects ───
 // IMPORTANT: These use config('app.fallback_locale') instead of App::getLocale()
@@ -202,7 +202,7 @@ Route::get('/search', function () {
     $queryString = http_build_query($query);
     $url = "/{$locale}/search" . ($queryString ? "?{$queryString}" : "");
     return redirect($url, 301);
-})->name('fallback.search');
+})->name('search');
 
 Route::get('/listing/{slug}', function ($slug) {
     $locale = config('app.fallback_locale', 'es');
@@ -225,11 +225,11 @@ Route::get('/listings', function () {
     $queryString = http_build_query($query);
     $url = "/{$locale}/listings" . ($queryString ? "?{$queryString}" : "");
     return redirect($url, 301);
-})->name('fallback.listings.index');
+})->name('listings.index');
 
 Route::get('/map-show-iframe', function () {
     $locale = config('app.fallback_locale', 'es');
     return redirect("/{$locale}/map-show-iframe", 301);
-})->name('fallback.map-show-iframe');
+})->name('map-show-iframe');
 
 require __DIR__ . '/auth.php';

@@ -26,10 +26,10 @@ class CityController extends Controller
 
         $mainCategories = Cache::remember('main_categories', 86400, function () {
             return \App\Models\Listing\Category::whereNull('parent_id')
+                ->has('listings')
                 ->withCount(['listings' => function ($query) {
                     $query->where('status', 'published')->where('is_hidden', false);
                 }])
-                ->having('listings_count', '>', 0)
                 ->get();
         });
 

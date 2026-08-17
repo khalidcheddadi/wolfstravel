@@ -11,6 +11,11 @@ use Illuminate\Support\Facades\Cache;
 
 class ListingController extends Controller
 {
+    public function index(\Illuminate\Http\Request $request)
+    {
+        return (new SearchController())->index($request);
+    }
+
     public function show(string $slug)
     {
         $listing = Cache::remember("listing_{$slug}", 3600, function () use ($slug) {

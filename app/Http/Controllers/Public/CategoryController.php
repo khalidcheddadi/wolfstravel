@@ -27,14 +27,12 @@ class CategoryController extends Controller
             ->latest('published_at')
             ->paginate(12);
 
-        $mainCategories = Cache::remember('main_categories', 86400, function () {
             return Category::whereNull('parent_id')
+                ->has('listings')
                 ->withCount(['listings' => function ($query) {
                     $query->where('status', 'published');
                 }])
-                ->having('listings_count', '>', 0)
                 ->get();
-        });
 
         $metaTitle = $category->meta_title ?? $category->name . ' - Discover tourism in Spain and Europe';
         $metaDescription = $category->meta_description ?? "Explore the best tourist activities in the {$category->name} category in Spain and Europe.";

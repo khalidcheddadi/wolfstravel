@@ -1,4 +1,4 @@
-@extends('layouts.admin')
+@extends('layouts.public')
 
 @section('content')
 {{-- تضمين مكتبة AOS --}}

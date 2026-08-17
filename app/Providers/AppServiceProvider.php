@@ -30,7 +30,19 @@ class AppServiceProvider extends ServiceProvider
     {
         $this->registerPolicies();
 
-        URL::forceScheme('https');
+        if (app()->environment('production')) {
+            URL::forceScheme('https');
+        }
+
+        \Illuminate\Support\Facades\View::composer(['layouts.public', 'partials.header', 'public.sections.footer'], function ($view) {
+            $cities = \Illuminate\Support\Facades\Cache::remember('all_cities_composer', 3600, function () {
+                return \App\Models\Location\City::orderBy('name')->get();
+            });
+            $categories = \Illuminate\Support\Facades\Cache::remember('all_categories_composer', 3600, function () {
+                return \App\Models\Listing\Category::whereNull('parent_id')->with('children')->orderBy('name')->get();
+            });
+            $view->with('cities', $cities)->with('categories', $categories);
+        });
 
 
         Gate::define('admin', function (User $user) {

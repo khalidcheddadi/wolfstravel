@@ -33,6 +33,7 @@ Thumbs.db
 *.pdf
 /seo-fixes/
 /apply_fixes.php
+test_routes.php
 /videos/
 /scren/
 /storage/media-library/
