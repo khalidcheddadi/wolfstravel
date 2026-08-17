@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://wolfstravel.com/es</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es" />
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/madrid</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/madrid" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/madrid" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/madrid" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/madrid" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/madrid" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/madrid" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/barcelona</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/barcelona" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/barcelona" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/barcelona" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/barcelona" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/barcelona" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/barcelona" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/seville</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/seville" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/seville" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/seville" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/seville" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/seville" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/seville" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/granada</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/granada" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/granada" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/granada" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/granada" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/granada" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/granada" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/valencia</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/valencia" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/valencia" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/valencia" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/valencia" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/valencia" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/valencia" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/malaga</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/malaga" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/malaga" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/malaga" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/malaga" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/malaga" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/malaga" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/bilbao</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/bilbao" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/bilbao" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/bilbao" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/bilbao" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/bilbao" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/bilbao" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/palma-de-mallorca</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/palma-de-mallorca" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/palma-de-mallorca" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/palma-de-mallorca" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/palma-de-mallorca" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/palma-de-mallorca" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/palma-de-mallorca" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/paris</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/paris" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/paris" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/paris" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/paris" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/paris" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/paris" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/nice</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/nice" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/nice" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/nice" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/nice" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/nice" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/nice" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/lyon</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/lyon" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/lyon" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/lyon" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/lyon" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/lyon" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/lyon" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/rome</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/rome" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/rome" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/rome" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/rome" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/rome" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/rome" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/milan</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/milan" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/milan" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/milan" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/milan" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/milan" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/milan" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/florence</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/florence" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/florence" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/florence" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/florence" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/florence" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/florence" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/venice</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/venice" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/venice" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/venice" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/venice" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/venice" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/venice" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/london</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/london" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/london" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/london" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/london" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/london" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/london" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/edinburgh</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/edinburgh" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/edinburgh" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/edinburgh" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/edinburgh" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/edinburgh" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/edinburgh" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/berlin</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/berlin" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/berlin" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/berlin" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/berlin" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/berlin" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/berlin" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/munich</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/munich" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/munich" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/munich" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/munich" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/munich" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/munich" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/lisbon</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/lisbon" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/lisbon" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/lisbon" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/lisbon" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/lisbon" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/lisbon" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/porto</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/porto" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/porto" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/porto" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/porto" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/porto" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/porto" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/new-york</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/new-york" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/new-york" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/new-york" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/new-york" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/new-york" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/new-york" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/miami</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/miami" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/miami" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/miami" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/miami" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/miami" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/miami" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/los-angeles</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/los-angeles" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/los-angeles" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/los-angeles" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/los-angeles" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/los-angeles" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/los-angeles" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/dubai</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/dubai" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/dubai" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/dubai" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/dubai" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/dubai" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/dubai" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/city/abu-dhabi</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/city/abu-dhabi" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/city/abu-dhabi" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/city/abu-dhabi" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/city/abu-dhabi" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/city/abu-dhabi" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/city/abu-dhabi" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/luxury</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/luxury" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/luxury" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/luxury" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/luxury" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/luxury" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/luxury" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/family-friendly</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/family-friendly" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/family-friendly" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/family-friendly" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/family-friendly" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/family-friendly" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/family-friendly" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/adventure</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/adventure" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/adventure" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/adventure" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/adventure" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/adventure" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/adventure" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/romantic</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/romantic" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/romantic" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/romantic" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/romantic" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/romantic" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/romantic" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/budget</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/budget" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/budget" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/budget" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/budget" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/budget" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/budget" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/cultural</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/cultural" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/cultural" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/cultural" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/cultural" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/cultural" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/cultural" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/eco-friendly</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/eco-friendly" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/eco-friendly" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/eco-friendly" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/eco-friendly" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/eco-friendly" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/eco-friendly" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/sport</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/sport" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/sport" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/sport" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/sport" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/sport" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/sport" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/5-star-hotels</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/5-star-hotels" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/5-star-hotels" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/5-star-hotels" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/5-star-hotels" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/5-star-hotels" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/5-star-hotels" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/private-tours</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/private-tours" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/private-tours" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/private-tours" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/private-tours" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/private-tours" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/private-tours" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/fine-dining</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/fine-dining" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/fine-dining" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/fine-dining" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/fine-dining" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/fine-dining" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/fine-dining" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/hiking</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/hiking" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/hiking" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/hiking" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/hiking" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/hiking" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/hiking" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/water-sports</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/water-sports" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/water-sports" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/water-sports" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/water-sports" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/water-sports" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/water-sports" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/safari</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/safari" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/safari" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/safari" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/safari" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/safari" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/safari" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/theme-parks</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/theme-parks" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/theme-parks" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/theme-parks" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/theme-parks" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/theme-parks" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/theme-parks" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/zoos-aquariums</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/zoos-aquariums" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/zoos-aquariums" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/zoos-aquariums" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/zoos-aquariums" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/zoos-aquariums" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/zoos-aquariums" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/family-resorts</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/family-resorts" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/family-resorts" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/family-resorts" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/family-resorts" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/family-resorts" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/family-resorts" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/historical-landmarks</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/historical-landmarks" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/historical-landmarks" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/historical-landmarks" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/historical-landmarks" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/historical-landmarks" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/historical-landmarks" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/art-galleries</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/art-galleries" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/art-galleries" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/art-galleries" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/art-galleries" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/art-galleries" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/art-galleries" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/local-festivals</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/local-festivals" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/local-festivals" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/local-festivals" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/local-festivals" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/local-festivals" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/local-festivals" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/football</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/football" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/football" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/football" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/football" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/football" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/football" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/cycling</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/cycling" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/cycling" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/cycling" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/cycling" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/cycling" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/cycling" />
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://wolfstravel.com/es/category/golf</loc>
+        <xhtml:link rel="alternate" hreflang="es" href="https://wolfstravel.com/es/category/golf" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://wolfstravel.com/en/category/golf" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://wolfstravel.com/fr/category/golf" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://wolfstravel.com/ar/category/golf" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://wolfstravel.com/de/category/golf" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://wolfstravel.com/es/category/golf" />
+        <priority>0.6</priority>
+    </url>
+</urlset>
